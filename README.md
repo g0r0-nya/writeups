@@ -1,2 +1,2 @@
 # writeups
-CTF writeup
+主にオンラインCTFで使用したプログラムを置いていく．
